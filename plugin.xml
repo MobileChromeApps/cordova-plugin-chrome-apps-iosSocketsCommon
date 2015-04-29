@@ -12,6 +12,7 @@
   </engines>
 
   <name>Chrome Apps iOS Sockets Common</name>
+  <keywords>chrome,ios,sockets</keywords>
 
   <platform name="ios">
     <framework src="Security.framework" />
